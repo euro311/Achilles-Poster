@@ -1,9 +1,9 @@
 Bibliography
-1.	N. R. Reddy and B. G. Jemimah, "A Vision Transformer-Based Multi-Camera Biomechanical Motion Analysis Framework for Early Sports Injury Risk Prediction in Elite Athletes," E-ISSN: 3069-0102, vol. 5, no. 4, 2025.
-2.	 R. Olivar and E. Kellis, "Acceleration and Injury-Frame Biomechanics in Achilles Tendon Rupture: A Systematic Review," J. Funct. Morphol. Kinesiol., vol. 11, no. 3, art. no. 309, Aug. 2026, doi: 10.3390/jfmk11030309.
-3.	J. Stenum, K. M. Cherry-Allen, C. O. Pyles, R. D. Reetzke, M. F. Vignos, and R. T. Roemmich, "Applications of Pose Estimation in Human Health and Performance across the Lifespan," Sensors, vol. 21, no. 21, art. no. 7315, Nov. 2021, doi: 10.3390/s21217315.
-4.	S. Edriss, C. Romagnoli, L. Caprioli, V. Bonaiuto, E. Padua, and G. Annino, "Commercial vision sensors and AI-based pose estimation frameworks for markerless motion analysis in sports and exercises: a mini review," Front. Physiol., vol. 16, art. no. 1649330, Aug. 2025, doi: 10.3389/fphys.2025.1649330.
-5.	N. J. Lemme, N. Y. Li, J. E. Kleiner, S. Tan, S. F. DeFroda, and B. D. Owens, "Epidemiology and Video Analysis of Achilles Tendon Ruptures in the National Basketball Association," Am. J. Sports Med., vol. 47, no. 10, pp. 2360–2366, Oct. 2019, doi: 10.1177/0363546519858609.
-6.	A. J. Petway, M. J. Jordan, S. Epsley, and P. Anloague, "Mechanisms of Achilles Tendon Rupture in National Basketball Association Players," J. Appl. Biomech., vol. 38, no. 6, pp. 398–403, Dec. 2022, doi: 10.1123/jab.2022-0088.
-7.	O. Köyağasıoğlu and Y. Lima, "Achilles tendon ruptures in National Basketball Association players: A sequential video analysis of injury mechanisms and biomechanical patterns," Knee Surg. Sports Traumatol. Arthrosc., vol. 34, no. 2, pp. 684–697, Feb. 2026, doi: 10.1002/ksa.70249.
-8.	J. Anderson and R. Miller, "3D Human Pose Estimation and Temporal Kinematic Constraints for Dynamic Occlusion in Basketball," Am. J. Artif. Intell. Neural Netw., vol. 7, no. 1, Feb. 2026, doi: 10.71465/ajainn3589.
+[1] M. Lawson, “Why all the Achilles injuries in the NBA this season?” ESPN, Jun. 25, 
+2025. 
+Available: https://www.espn.com/nba/story/_/id/45582778/nba-calf-achilles
+injuries-overuse-recovery. Accessed: Jan. 30, 2026.
+
+[2] A. J. Petway, M. J. Jordan, S. Epsley, and P. A. Anloague, “Mechanisms of Achilles 
+tendon rupture in National Basketball Association players,” J. Appl. Biomech., vol. 38, no. 
+6, pp. 398–403, Oct. 2022. doi:10.1123/jab.2022-0176.  
